@@ -15,7 +15,7 @@
 - Vel. poddôstojník práporu: nadrtm. Bičej  
 
 **Logistika 65. prápor**  
-- Náčelník logistiky / náčelník parku techniky: rtm. Dančák  
+- Náčelník parku techniky: rtm. Dančák  
 - Veliteľ logistiky: nadpor. Ržonca  
 
 ## 2. Použitie donucovacích prostriedkov a zbrane  
