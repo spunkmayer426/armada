@@ -6,7 +6,8 @@
 
 ### 22. prieskumný pluk Prešov
 - Veliteľ pluku: plk. Brinček  
-- Zástupca veliteľa: pplk. Mizerák  
+- Náčelník štábu: pplk. Mizerák  
+- náčelník logistiky: kpt. Turóci
 - Vel. poddôstojník pluku: stáb. nadrtm. Kocák  
 
 ### 65. prieskumný prápor Prešov
