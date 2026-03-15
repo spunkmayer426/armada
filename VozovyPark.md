@@ -73,7 +73,25 @@ Riadi sa právnymi predpismi SR a medzinárodnými záväzkami SR.
 
 ## 3. Park techniky SokKas – základné pravidlá
 
-### 3.1 Povinnosti 2. PDPT SokKas
+### 3.1 Povinnosti 1.PDPT SoKKas
+
+1.PDPT SoKKas je povinný:
+
+a) preberať dokumentáciu, inventár a pomôcky na stanovisku DPT SoKKas podľa zoznamu,
+b) povoľovať a evidovať vstup osôb do parku techniky, výjazd výzbroje a techniky a ich návrat do parku techniky povoliť len so súhlasom dozorného parku techniky,
+c) zastupovať DPT SoKKas počas jeho neprítomnosti,
+d) dbať na čistotu a poriadok v parku techniky,
+e) dbať na to, aby výzbroj a technika zachádzala na svoje určené stanovište len so súhlasom dozorného parku techniky,
+f) vznik požiaru ihneď hlásiť dozornému parku techniky a vykonať opatrenia na likvidáciu požiaru,
+g) kontrolovať správne rozmiestnenie a úplnosť nádob pre zachytávanie odkvapkávajúceho oleja a iných ropných produktov pod technikou,
+h) kontrolovať parkové zariadenia, kde vzniká ropný a iný odpad, podľa pokynov dozorného parku techniky,
+i) hlásiť dozornému parku techniky a náčelníkovi parku techniky každé porušenie organizovanosti a chodu služby,
+j) nevzďaľovať sa zo svojho stanovišťa bez vedomia dozorného parku techniky,
+k) pri vyhlásení stupňa pohotovosti sa riadiť pokynmi dozorného parku techniky v zmysle spracovaných metodík,
+l) postupovať podľa bodu č. 6 na základe nariadenia DVO SoKKas,
+m) vykonáva kontrolu zapečatenia a uzamknutia chráneného objektu a chráneného priestoru (CHO/CHP) mobilného spojovacieho uzla uloženého pod ESO prístreškom číslo 56, pričom pri kontrole sa riadi pokynmi pre vykonávanie fyzickej ochrany CHO/CHP (MSU-2T) v parku techniky SoKKas.
+
+### 3.1.1 Povinnosti 2. PDPT SokKas
 - povoľovať a evidovať vstup osôb do parku techniky, výjazd výzbroje a techniky a ich návrat do parku techniky povoliť len so súhlasom dozorného parku techniky  
 - dbať na čistotu a poriadok v parku techniky  
 - dbať na to, aby výzbroj a technika zachádzala na svoje určené stanovište len so súhlasom dozorného parku techniky  
@@ -84,6 +102,7 @@ Riadi sa právnymi predpismi SR a medzinárodnými záväzkami SR.
 - nevzďaľovať sa zo svojho stanovišťa bez vedomia dozorného parku techniky  
 - pri vyhlásení stupňa pohotovosti sa riadiť pokynmi dozorného parku techniky v zmysle spracovaných metodík  
 - vykonávať kontrolu zapečatenia a uzamknutia chráneného objektu a chráneného priestoru (CHO/CHP) mobilného spojovacieho uzla uloženého pod ESO prístreškom číslo 56, pričom pri kontrole sa riadi pokynmi pre vykonávanie fyzickej ochrany CHO/CHP (MSU-2T) v parku techniky SokKas
+
 
 ### 3.2 Zakázané činnosti počas výkonu služby
 - vykonávať iné činnosti, ako sú určené v smernici pre výkon služby v parku techniky  
@@ -169,6 +188,21 @@ Povinnosť sa vzťahuje na každé poranenie pri práci (aj malé – následky 
 Nastupujúci 2. PDPT SokKas spolu s odovzdávajúcim skontroluje:  
 - budovy, prístrešky, sklady, vstupné brány, garáže, výzbroj, techniku a zariadenia na nezakrytých plochách (budovy č. 7, 8, 9, 24, 25, 26, 27, 28, 31; prístrešky č. 11, 38; brány a oplotenie na odstavnej ploche 67. rpv/2. mb; brány PT č. 1–6)  
 - náhodne preverí uzatvorenie, zamknutie, zaplombovanie dverí techniky, príklopov bojových vozidiel, prídavných obalov s PH a protipožiarnych zariadení
+
+### 4.4 Odovzdanie a preberanie služby v parku techniky
+
+Odovzdanie a preberanie služby vykonávať v súlade s denným poriadkom (príloha č. 1 k OsR č. 1 vel. 22.psp).
+
+#### b) 1.PDPT SoKKas
+V čase od **6:10 – 6:50** nastupujúci 1.PDPT SoKKas spolu s odovzdávajúcim 1.PDPT SoKKas si prevezme a skontroluje:
+
+* **Dokumentáciu DPT SoKKas** podľa zoznamu dokumentácie `22.psp- 22psp-EL7/2-21/2024` a `2 mb-EL4/107-2-3/2024`,
+* uzamknutie, zapečatenie bezpečnostných uzáverov a schránok s kľúčmi podľa zoznamu,
+* **karty od techniky** (`22.psp`, `67.rpv/2.mb`, `19. opt.`, `Reg.stredisko`, `SPO/ASM`),
+* kľúče od techniky, ktoré sú uložené na stene v uzamykateľných skrinkách, podľa zoznamu techniky po jednotkách,
+* **zariadenia** (na stanovisku DPT SoKKas, odpočinkovej miestnosti, WC, chodba) podľa zoznamu predmetov a zariadení v jednotlivých miestnostiach,
+* **čistotu a poriadok** (na stanovisku DPT SoKKas, vonku pred stanoviskom DPT SoKKas, pred hlavnou bránou č. 1 a vstupnou bráničkou do PT SoKKas, v priestore na fajčenie, ďalej skontroluje vyprázdnenie nádob na smeti, umytie podlahy na stanovisku DPT SoKKas, chodby a WC),
+* Preberajúci 1.PDPT SoKKas zahlási preberajúcemu DPT SoKKas výsledok preberania a zistený stav.
 
 ---
 
