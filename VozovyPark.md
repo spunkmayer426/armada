@@ -204,6 +204,12 @@ V čase od **6:10 – 6:50** nastupujúci 1.PDPT SoKKas spolu s odovzdávajúcim
 * **čistotu a poriadok** (na stanovisku DPT SoKKas, vonku pred stanoviskom DPT SoKKas, pred hlavnou bránou č. 1 a vstupnou bráničkou do PT SoKKas, v priestore na fajčenie, ďalej skontroluje vyprázdnenie nádob na smeti, umytie podlahy na stanovisku DPT SoKKas, chodby a WC),
 * Preberajúci 1.PDPT SoKKas zahlási preberajúcemu DPT SoKKas výsledok preberania a zistený stav.
 
+# Vedenie Ministerstva obrany SR
+
+![Igor Melicher](https://www.mosr.sk/data/att/165423.png)
+
+**I. štátny tajomník Ministerstva obrany SR** ### Igor Melicher
+
 ---
 
 Tento materiál slúži na rýchle štúdium a opakovanie.  
