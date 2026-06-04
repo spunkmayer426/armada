@@ -6,12 +6,13 @@
 
 ### 22. prieskumný pluk Prešov
 - Veliteľ pluku: plk. Brinček  
+- Zástupca veliteľa: pplk. Nagy
 - Náčelník štábu: pplk. Mizerák  
-- náčelník logistiky: kpt. Turóci
-- Vel. poddôstojník pluku: stáb. nadrtm. Kocák  
+- náčelník logistiky: mjr. Turóci
+- Vel. poddôstojník pluku: štáb. nadrtm. Kocák  
 
 ### 65. prieskumný prápor Prešov
-- Veliteľ práporu: pplk. Nagy  
+- Veliteľ práporu: mjr. Vaško  
 - Zástupca veliteľa: major Lukáč  
 - Vel. poddôstojník práporu: nadrtm. Bičej  
 
@@ -22,7 +23,22 @@
 ## 2. Použitie donucovacích prostriedkov a zbrane  
 (Zákon č. 321/2002 Z. z. o ozbrojených silách)
 
-### § 14 – Druhy donucovacích prostriedkov
+### Bezpečnostné opatrenia pri manipulácii so zbraňami
+
+- nabíjanie a vybíjanie zbraní vykonávať v súlade s postupom nabíjania a vybíjania zbraní
+- nabíjanie a vybíjanie zbraní, plnenie a vyprázdňovanie zásobníkov vykonávať na mieste na tom určenom
+- zbraň prevziať a odovzdať od DVO SokKas takm aby nikdy na nikoho nemierila
+- kontrolu istoty zbrane a jej funkčnosť vykonať s využitím lapača striel
+
+### So zbraňou sa zakazuje ❗❗❗
+- bezdôvodne zasúvať náboj do nábojovej komory,
+- mieriť so zbraňou na osoby,
+- kdekoľvek odkladať zbraň, alebo ju odovzdávať iným osobám,
+- akokoľvek manipulovať so zbraňou (rozoberať, čistiť),
+- nosiť zbraň (pištoľ) bez puzdra,
+- nosiť zbraň bez zaistenia proti strate
+
+### § 14 – Druhy donucovacích prostriedkov ❗❗❗
 Vojak môže použiť:  
 a) hmaty, chvaty, údery a kopy sebaobrany  
 b) hrozba použitia služobného psa  
@@ -44,11 +60,11 @@ Vojak môže použiť vojenskú zbraň pri výkone poriadkovej, strážnej, esko
 
 a) ak ide o **nutnú obranu**, alebo o **krajnú núdzu**  
 
-**Nutná obrana** (Trestný zákon § 13)  
+**Nutná obrana** (Trestný zákon § 13)  ❗❗❗
 Čin inak trestný, ktorým niekto odvracia priamo hroziaci alebo trvajúci útok na záujem chránený týmto zákonom, nie je trestným činom.  
 Nejde o nutnú obranu, ak obrana bola celkom zjavne neprimeraná útoku.
 
-**Krajná núdza** (Trestný zákon § 14)  
+**Krajná núdza** (Trestný zákon § 14)  ❗❗❗
 Čin inak trestný, ktorým niekto odvracia nebezpečenstvo priamo hroziace záujmu chránenému týmto zákonom, nie je trestným činom.  
 Nejde o krajnú núdzu, ak bolo možné toto nebezpečenstvo za daných okolností odvrátiť inak alebo spôsobený následok je zrejme rovnako závažný alebo ešte závažnejší ako ten, ktorý hrozil.
 
@@ -64,10 +80,7 @@ c) na zamedzenie úteku zo stráženého objektu alebo zo strážneho stanoviš�
 **Pri použití**:  
 - Vojak je povinný dbať na potrebnú opatrnosť, najmä aby čo najviac šetril život osoby, proti ktorej zákrok smeruje, a aby nebol ohrozený život ani zdravie iných osôb.
 
-**Použitie mimo územia SR**:  
-Riadi sa právnymi predpismi SR a medzinárodnými záväzkami SR.
-
-### § 17 – Povinnosti po použití vojenskej zbrane alebo iného donucovacieho prostriedku
+### § 17 – Povinnosti po použití vojenskej zbrane alebo iného donucovacieho prostriedku ❗❗❗
 1. Ak vojak zistí, že po použití vojenskej zbrane alebo iného donucovacieho prostriedku došlo k zraneniu osoby, je povinný, ak to okolnosti dovoľujú, poskytnúť zranenej osobe prvú pomoc a zabezpečiť jej lekárske ošetrenie.  
 2. Zákrok, pri ktorom vojak použil vojenskú zbraň alebo iný donucovací prostriedok, je povinný bezodkladne hlásiť služobnému orgánu alebo nadriadenému vojakovi; ak vojenskú zbraň alebo iný donucovací prostriedok použil pri zákroku zamestnanec, je povinný takýto zákrok bezodkladne hlásiť.
 
@@ -142,7 +155,7 @@ m) vykonáva kontrolu zapečatenia a uzamknutia chráneného objektu a chránen�
 
 ## 4. Mimoriadne situácie
 
-### 4.1 Požiar (Príloha č. 4)
+### 4.1 Požiar (Príloha č. 4) ❗❗❗
 **Povinnosti osôb, ktoré spozorujú požiar**  
 - Vyhlásiť v priestore „POŽIARNY POPLACH“  
 - Zabezpečiť hlásenie DVO SokKas  
@@ -211,6 +224,3 @@ V čase od **6:10 – 6:50** nastupujúci 1.PDPT SoKKas spolu s odovzdávajúcim
 **I. štátny tajomník Ministerstva obrany SR** ### Igor Melicher
 
 ---
-
-Tento materiál slúži na rýchle štúdium a opakovanie.  
-Vždy postupujte podľa aktuálnych rozkazov, Vestníka MO SR a interných smerníc 22. psp.
