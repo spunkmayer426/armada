@@ -52,7 +52,7 @@ g) vojenská zbraň
 - Pred použitím: **výzva** + **výstraha** (upustiť od protiprávneho konania)  
 - Od výzvy a výstrahy môže vojak upustiť iba v prípade, keď je sám napadnutý, alebo je ohrozený život alebo zdravie inej osoby, a vec neznesie odklad, alebo tomu bránia iné okolnosti.  
 - O tom, ktorý z donucovacích prostriedkov vojak použije, rozhoduje podľa konkrétnej situácie tak, aby dosiahol účel sledovaný zákrokom a použitý donucovací prostriedok a intenzita jeho použitia neboli zjavne neprimerané nebezpečnosti útoku.  
-- Pri zákroku proti tehotnej žene, osobe vysokého veku, osobe so zjavnou telesnou chybou alebo chorobou a proti osobe mladšej ako 15 rokov je vojak oprávnený použiť z donucovacích prostriedkov iba **hmaty a chvaty**.  
+- Pri zákroku proti tehotnej žene, osobe vysokého veku, osobe so zjavnou telesnou chybou alebo chorobou a proti osobe mladšej ako 15 rokov je vojak oprávnený použiť z donucovacích prostriedkov iba **hmaty a chvaty**. ❗❗❗ 
   Ostatné donucovacie prostriedky je vojak oprávnený použiť len vtedy, keď útok týchto osôb bezprostredne ohrozuje životy alebo zdravie iných osôb, alebo vojaka, alebo hrozí závažná škoda na majetku a nebezpečenstvo nemožno odvrátiť inak.
 
 ### § 16 – Použitie vojenskej zbrane
